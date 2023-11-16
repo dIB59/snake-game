@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <unistd.h>
-#include <windows.h>
 
 #define HEIGHT 20
 #define WIDTH 20
